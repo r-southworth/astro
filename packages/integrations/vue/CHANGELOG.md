@@ -1,5 +1,14 @@
 # @astrojs/vue
 
+## 2.1.1
+
+### Patch Changes
+
+- [#6671](https://github.com/withastro/astro/pull/6671) [`d59e511d1`](https://github.com/withastro/astro/commit/d59e511d16482cfc7067555dd0a456098ec69e30) Thanks [@wulinsheng123](https://github.com/wulinsheng123)! - Supporting the top of the await syntax sugar for Vue in the template's setup
+
+- Updated dependencies [[`d54cbe413`](https://github.com/withastro/astro/commit/d54cbe41349e55f8544212ad9320705f07325920)]:
+  - astro@2.1.10
+
 ## 2.1.0
 
 ### Minor Changes

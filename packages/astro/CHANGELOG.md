@@ -1,5 +1,16 @@
 # astro
 
+## 2.1.10
+
+### Patch Changes
+
+- [#6719](https://github.com/withastro/astro/pull/6719) [`d54cbe413`](https://github.com/withastro/astro/commit/d54cbe41349e55f8544212ad9320705f07325920) Thanks [@matthewp](https://github.com/matthewp)! - Better errors for when response is already sent
+
+  This adds clearer error messaging when a Response has already been sent to the browser and the developer attempts to use:
+
+  - Astro.cookies.set
+  - Astro.redirect
+
 ## 2.1.9
 
 ### Patch Changes
